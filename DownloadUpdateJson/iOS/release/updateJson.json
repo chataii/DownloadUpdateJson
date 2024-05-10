@@ -1,22 +1,17 @@
 {
-    "operating_system" : [
-        {
-            "os_name": "ios",
-            "force_update_below_version": "",
-            "force_update_versions": [
-            ],
-            "version": "1.1.4",
-            "messages": {
-                "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
-                "es": "Debido a las actualizaciones del servidor, actualice a la última versión en App Store para garantizar la funcionalidad",
-                "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité",
-                "pt": "Devido a atualizações do servidor, por favor atualize para a última versão no App Store para garantir a funcionalidade",
-                "de": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im App Store, um die Funktionalität sicherzustellen",
-                "ja": "サーバーのアップグレードにより、機能を確保するためにApp Storeで最新バージョンに更新してください",
-                "ko": "서버 업그레이드로 인해 기능을 보장하려면 App Store에서 최신 버전으로 업데이트하십시오",
-                "ar": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على App Store لضمان الوظائف"
-                "id": "Karena peningkatan server, harap perbarui ke versi terbaru di App Store untuk memastikan fungsionalitasnya.",
-            }
-        }
-    ]
+    "os_name": "ios",
+    "force_update_below_version": "",
+    "force_update_versions": [],
+    "version": "1.1.4",
+    "messages": {
+        "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
+        "es": "Debido a las actualizaciones del servidor, actualice a la última versión en App Store para garantizar la funcionalidad",
+        "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité",
+        "pt": "Devido a atualizações do servidor, por favor atualize para a última versão no App Store para garantir a funcionalidade",
+        "de": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im App Store, um die Funktionalität sicherzustellen",
+        "ja": "サーバーのアップグレードにより、機能を確保するためにApp Storeで最新バージョンに更新してください",
+        "ko": "서버 업그레이드로 인해 기능을 보장하려면 App Store에서 최신 버전으로 업데이트하십시오",
+        "ar": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على App Store لضمان الوظائف",
+        "id": "Karena peningkatan server, harap perbarui ke versi terbaru di App Store untuk memastikan fungsionalitasnya.",
+    }
 }
