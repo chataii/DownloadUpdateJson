@@ -1,8 +1,8 @@
 {
-    "os_name": "ios",
+    "os_name": "android",
     "force_update_below_version": "",
     "force_update_versions": [],
-    "version": "1.1.4",
+    "version": "1.4.0",
     "messages": {
         "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
         "es": "Debido a las actualizaciones del servidor, actualice a la última versión en App Store para garantizar la funcionalidad",
