@@ -6,35 +6,36 @@
 	"messages": [
 		{
 			"language": "en",
-			"content": "Due to server upgrades, please update to the latest version on App Store to ensure functionality"
-		},
-		{
-			"language": "es",
-			"content": "Debido a las actualizaciones del servidor, actualice a la última versión en App Store para garantizar la funcionalidad"
-		},
-		{
-			"language": "fr",
-			"content": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité"
-		},
-		{
-			"language": "pt",
-			"content": "Devido a atualizações do servidor, por favor atualize para a última versão no App Store para garantir a funcionalidade"
-		},
-		{
-			"language": "de",
-			"content": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im App Store, um die Funktionalität sicherzustellen"
-		},
-		{
-			"language": "ja",
-			"content": "サーバーのアップグレードにより、機能を確保するためにApp Storeで最新バージョンに更新してください"
+			"content": "Due to server upgrades, please update to the latest version on Google Play to ensure functionality"
 		},
 		{
 			"language": "ar",
-			"content": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على App Store لضمان الوظائف"
+			"content": "بسبب ترقيات الخادم، يرجى التحديث إلى النسخة الأخيرة على Google Play لضمان الوظائف."
 		},
 		{
-			"language": "id",
-			"content": "Karena peningkatan server, harap perbarui ke versi terbaru di App Store untuk memastikan fungsionalitasnya."
+			"language": "de",
+			"content": "Aufgrund von Server-Upgrades aktualisieren Sie bitte auf die neueste Version bei Google Play, um die Funktionalität zu gewährleisten."
+		},
+		{
+			"language": "es",
+			"content": "Debido a actualizaciones del servidor, actualice a la última versión en Google Play para garantizar la funcionalidad."
+		},
+		{
+			"language": "fr",
+			"content": "En raison des mises à niveau du serveur, veuillez mettre à jour la dernière version sur Google Play pour assurer la fonctionnalité."
+		},
+		{
+			"language": "in",
+			"content": "Karena peningkatan server, mohon perbaharui ke versi terbaru di Google Play untuk memastikan fungsionalitas."
+		},
+
+		{
+			"language": "ja",
+			"content": "サーバーのアップグレードに伴い、機能を保証するためにGoogle Playで最新バージョンに更新してください。"
+		},
+		{
+			"language": "pt",
+			"content":"Devido a atualizações do servidor, por favor, atualize para a versão mais recente no Google Play para assegurar a funcionalidade."
 		}
 	]
 }
